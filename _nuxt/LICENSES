@@ -1,15 +1,3 @@
-/*!
- * Vue.js v2.6.12
- * (c) 2014-2020 Evan You
- * Released under the MIT License.
- */
-
-/*!
-  * vue-router v3.5.1
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
 /**
  * vue-meta v1.6.0
  * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
@@ -21,6 +9,18 @@
 	(c) Sindre Sorhus
 	@license MIT
 	*/
+
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+  * vue-router v3.5.1
+  * (c) 2021 Evan You
+  * @license MIT
+  */
 
 /*!
  * GSAP 3.7.1
@@ -104,3 +104,11 @@ and limitations under the License.
  * Club GreenSock members, the agreement issued with that membership.
  * @author: Jack Doyle, jack@greensock.com
 */
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
