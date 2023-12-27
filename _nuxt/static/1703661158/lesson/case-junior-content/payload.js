@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lesson/case-junior-content", {data:[{}],fetch:{},mutations:void 0});
