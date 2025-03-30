@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/night-of-reading", {data:[{}],fetch:{},mutations:void 0});

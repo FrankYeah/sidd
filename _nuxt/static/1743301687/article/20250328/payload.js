@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/20250328", {data:[{}],fetch:{},mutations:void 0});
