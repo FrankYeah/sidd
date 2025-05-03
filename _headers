@@ -1,5 +1,0 @@
-/video/ocean.mp4
-  Cache-Control: public, max-age=31536000, immutable
-
-/ocean-fallback-img.webp
-  Cache-Control: public, max-age=31536000, immutable
