@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/2025-case-study-E-commerce-editor", {data:[{}],fetch:{},mutations:void 0});
