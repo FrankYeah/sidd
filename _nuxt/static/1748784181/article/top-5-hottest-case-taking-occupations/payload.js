@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/top-5-hottest-case-taking-occupations", {data:[{}],fetch:{},mutations:void 0});
