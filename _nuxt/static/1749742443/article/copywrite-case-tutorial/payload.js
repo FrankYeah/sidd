@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/copywrite-case-tutorial", {data:[{}],fetch:{},mutations:void 0});
