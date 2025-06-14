@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lesson/payment", {data:[{}],fetch:{},mutations:void 0});
