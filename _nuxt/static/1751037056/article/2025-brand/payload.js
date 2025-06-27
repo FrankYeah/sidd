@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/2025-brand", {data:[{}],fetch:{},mutations:void 0});
