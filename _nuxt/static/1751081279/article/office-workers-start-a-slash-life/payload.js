@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/office-workers-start-a-slash-life", {data:[{}],fetch:{},mutations:void 0});

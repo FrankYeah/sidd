@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/case-study-video-case-worker", {data:[{}],fetch:{},mutations:void 0});
