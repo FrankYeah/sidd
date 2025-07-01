@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/article/soft-power-in-case-acceptance", {data:[{}],fetch:{},mutations:void 0});

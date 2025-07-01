@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/cooperate", {data:[{}],fetch:{},mutations:void 0});

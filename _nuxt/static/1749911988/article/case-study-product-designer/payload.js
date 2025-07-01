@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/article/case-study-product-designer", {data:[{}],fetch:{},mutations:void 0});

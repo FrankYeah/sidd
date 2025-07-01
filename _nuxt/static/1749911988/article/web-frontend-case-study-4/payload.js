@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/article/web-frontend-case-study-4", {data:[{}],fetch:{},mutations:void 0});

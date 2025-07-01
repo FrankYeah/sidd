@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/speech-type", {data:[{}],fetch:{},mutations:void 0});

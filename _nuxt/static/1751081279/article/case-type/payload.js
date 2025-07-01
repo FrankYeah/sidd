@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/article/case-type", {data:[{}],fetch:{},mutations:void 0});
