@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/overseas-case-acceptance-platform", {data:[{}],fetch:{},mutations:void 0});

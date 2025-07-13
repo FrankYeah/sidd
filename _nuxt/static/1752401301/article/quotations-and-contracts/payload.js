@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/quotations-and-contracts", {data:[{}],fetch:{},mutations:void 0});

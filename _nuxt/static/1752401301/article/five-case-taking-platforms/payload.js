@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/five-case-taking-platforms", {data:[{}],fetch:{},mutations:void 0});

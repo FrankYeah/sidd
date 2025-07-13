@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/year-revenue", {data:[{}],fetch:{},mutations:void 0});
