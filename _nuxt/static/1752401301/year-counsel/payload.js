@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/year-counsel", {data:[{}],fetch:{},mutations:void 0});

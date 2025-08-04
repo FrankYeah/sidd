@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/article/case-study-community-planning", {data:[{}],fetch:{},mutations:void 0});
