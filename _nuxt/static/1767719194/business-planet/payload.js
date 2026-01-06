@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/business-planet", {data:[{}],fetch:{},mutations:void 0});
